@@ -10,5 +10,13 @@ $('document').ready(function(){
     } 
     $('.amenities H4').text(Object.values(amenityLs).join(', '));
   });
+  $.get('http://8cae54ddf86b.2bf38412.alx-cod.online:5001/api/v1/status', function(data){
+    if (data.status === 'OK'){
+      $('#api_status').addClass('available');
+    }
+    else {
+      $('#api_status').removeClass('available');
+    }
+  });
 });
 

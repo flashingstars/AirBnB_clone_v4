@@ -158,7 +158,9 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Erick Barasa - [Github](https://github.com/procode3)
+Anne Njuguna - [Github](https://github.com/flashingstars)
 
-Second part of Airbnb: Joann Vuong
+Fouth Part of Hbnb: Erick and Anne
 ## License
 Public Domain. No copy write protection. 
